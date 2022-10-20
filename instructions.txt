@@ -37,7 +37,7 @@ Edit .desktop file
     [Desktop Entry]
     Type=Application
     Name=Video
-    Exec= ./home/pi/PiVideo/launcher.sh
+    Exec=sh /home/pi/Desktop/PiVideo/launcher.sh
     - ensure the path file for `Exec` is correct
 
 Please see the following for further information https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup#method-2-autostart 

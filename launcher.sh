@@ -1,7 +1,6 @@
 # Sleep for 90 seconds. This number is set to 90 to give time to stop the script running automatically
 #sleep 90
-
-cd /home/pi/Desktop/PiVideo-master
+#cd /home/pi/Desktop/PiVideo
 
 omxplayer FILENAME.mp4 #replace `FILENAME.mp4` with your own video
 
